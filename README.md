@@ -6,7 +6,7 @@
 
 Modificando projeto construído no evento Next Level Week da Rocketseat.
 
-🔗[Clique aqui para acessar](https://viniiirj.github.io/Series-Filmes/)
+🔗[Clique aqui para acessar](https://viniiirj.github.io/series-filmes/)
 
 ## ⚙️ Tecnologias
 
